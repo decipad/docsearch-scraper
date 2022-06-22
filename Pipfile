@@ -15,8 +15,8 @@ pytest = "==3.10.0"
 requests-iap = "==0.2.0"
 python-helpscout-v2 = "==1.0.1"
 algoliasearch = ">=2.0,<3.0"
-brotli = "*"
-click = "*"
+brotli = "1.0.9"
+click = "==8.0.3"
 
 [dev-packages]
 pylint = "==2.3.1"
